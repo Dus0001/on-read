@@ -4,7 +4,7 @@ function renderLicenseBadge(license) {
     if(!license) {
         return license = ''
     } 
-    return  '![Github license](http://img.shields.io/badge/license-${data.license}-blue.svg)'
+    return `![Github license](http://img.shields.io/badge/license-${data.license}-blue.svg)`
 }
 
 // TODO: Create a function that returns the license link
@@ -19,17 +19,17 @@ function renderLicenseSection(license) {}
 function generateMarkdown(data) {
   return `# ${data.title}
 
-  ### //badg
+  ### ${renderLicenseBadge()}
   ### //badge link
 
   ## Table of Contents
   ### License
-  ### Descpition
-  ### Install
-  ### Usage
-  ### Guidelines
-  ### Test
-  ### Contact
+  ### Descpition(#descrpition)
+  ### Install(#Install)
+  ### Usage(#Usage)
+  ### Guidelines(#Guidlines)
+  ### Test(#Test)
+  ### Contact(#Contact)
 
   ## Description
     ${data.description}
@@ -43,7 +43,9 @@ function generateMarkdown(data) {
   ## Test
     ${data.test}
   ## Contact
-    If there is any concern the creator can be contacted by any of the following: ${data.email}/${data.GitHub}.
+    Contact me using:
+    Email: ${data.email}
+    GitHub: ${data.GitHub}
 
 
 
