@@ -19,7 +19,7 @@ function renderLicenseSection(license) {}
 function generateMarkdown(data) {
   return `# ${data.title}
 
-  ### //badge goes here
+  ### //badg
   ### //badge link
 
   ## Table of Contents
