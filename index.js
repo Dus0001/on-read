@@ -85,11 +85,9 @@ const questions = [
         }
     },
     {
-        type:'checkbox',
+        type:'input',
         name:'license',
-        message:'Please select the license assigned for this project?',
-        choices:['MIT', 'GNU', 'Boost', 'BSD'],
-        default: 'MIT',
+        message:'Please select the license assigned for this project?'
 
     },
     {
