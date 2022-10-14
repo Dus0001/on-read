@@ -3,7 +3,7 @@
   ## Table of Contents
   * [License](#license)
   * [Descpition](#descrpition)
-  * [Demo](#demo link)
+  *  Demo
   * [Install](#install)
   * [Usage](#usage)
   * [Guidelines](#guidlines)
