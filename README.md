@@ -1,7 +1,7 @@
-# sdkfn
+# Read on
 
   ## Table of Contents
-  * [License]
+  * [License](#license)
   * [Descpition](#descrpition)
   * [Install](#install)
   * [Usage](#usage)
@@ -10,7 +10,7 @@
   * [Contact](#contact)
 
   
-     ##License
+     ## License
 
     [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -18,21 +18,21 @@
     
 
   ## Description
-    dfsdf
+    an app that dynamically generates a README File
 
   ## Install
-    sdfsd
+    Run in command terminal
   ## Usage
-    sdfd
+    To generate a professional README
   ## Guidelines
-    sdfsdf
+    Install inquier package
 
   ## Test
-    sdfd
+    node.js
   ## Contact
-    Contact me using:
-    Email: sdf
-    GitHub: sdf
+    Contact me at:
+    Email: realemail@email.com
+    GitHub: dus0001
 
 
 
