@@ -38,7 +38,8 @@
     Email: realemail@email.com
     GitHub: dus0001
 
-<img width="1048" alt="Screen Shot 2022-09-18 at 6 11 02 PM (2)" src="https://user-images.githubusercontent.com/109925067/195751984-4a59461a-d980-4d28-af64-f61de69f67d0.png">
+
+<img width="1136" alt="Screen Shot 2022-10-13 at 9 44 30 PM" src="https://user-images.githubusercontent.com/109925067/195752092-8e4bfca4-50d2-4a5c-9367-d3523ea43e75.png">
 
 
 
